@@ -1,3 +1,3 @@
 
 build:
-	docker build -t asc/deb-demo:1.0 .
+	docker build -t asc/deb-demo:latest .
